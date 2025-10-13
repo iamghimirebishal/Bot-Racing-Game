@@ -3,7 +3,7 @@
 **A fun, AI-powered racing game built with Python and Pygame.**  
 Race against a computer-controlled car, navigate challenging tracks, and test your reflexes as you speed to the finish line!  
 
-![🎮 Game Preview](imgs/bot racing.gif)  
+![🎮 Game Preview](https://github.com/iamghimirebishal/Bot-Racing-Game/blob/main/imgs/bot%20racing.gif)  
 
 
 ---
