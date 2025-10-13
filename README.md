@@ -4,7 +4,7 @@
 Race against a computer-controlled car, navigate challenging tracks, and test your reflexes as you speed to the finish line!  
 
 ![🎮 Game Preview](imgs/bot racing.gif)  
-*_(Replace the above link with your actual gameplay GIF once uploaded)_*
+
 
 ---
 
