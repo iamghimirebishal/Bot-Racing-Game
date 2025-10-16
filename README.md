@@ -1,10 +1,13 @@
-# 🏎️ The Bot Racing Game
+<div align="center">
+
+# 🏎️ The Bot Racing Game  
 
 **A fun, AI-powered racing game built with Python and Pygame.**  
 Race against a computer-controlled car, navigate challenging tracks, and test your reflexes as you speed to the finish line!  
 
-![🎮 Game Preview](https://github.com/iamghimirebishal/Bot-Racing-Game/blob/main/imgs/bot%20racing.gif)  
+![🎮 Game Preview](https://github.com/iamghimirebishal/Bot-Racing-Game/blob/main/imgs/bot%20racing.gif)
 
+</div>
 
 ---
 
@@ -100,16 +103,15 @@ Bot-Racing-Game/
 
 ---
 
+<div align="center">
+  
 ## 📸 Screenshots
 
-Main Menu	In-Game View
+<img src="https://github.com/iamghimirebishal/Bot-Racing-Game/blob/main/imgs/main-menu.png" width="300"/> 
+<img src="https://github.com/iamghimirebishal/Bot-Racing-Game/blob/main/imgs/gameplay.png" width="300"/> 
+<img src="https://github.com/iamghimirebishal/Bot-Racing-Game/blob/main/imgs/losing-interface.png" width="300"/> 
 
-https://github.com/iamghimirebishal/Bot-Racing-Game/blob/main/imgs/gameplay.png
-
-https://github.com/iamghimirebishal/Bot-Racing-Game/blob/imgs/losing-interface.png
-
-https://github.com/iamghimirebishal/Bot-Racing-Game/blob/imgs/main-menu.png
-
+</div>
 ---
 
 ## 👨‍💻 Developed By
