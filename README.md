@@ -104,9 +104,11 @@ Bot-Racing-Game/
 
 Main Menu	In-Game View
 
-https://github.com/iamghimirebishal/Bot-Racing-Game/imgs/gameplay.png
-https://github.com/iamghimirebishal/Bot-Racing-Game/imgs/losing interface.png
-https://github.com/iamghimirebishal/Bot-Racing-Game/imgs/main menu.png
+https://github.com/iamghimirebishal/Bot-Racing-Game/blob/main/imgs/gameplay.png
+
+https://github.com/iamghimirebishal/Bot-Racing-Game/blob/imgs/losing-interface.png
+
+https://github.com/iamghimirebishal/Bot-Racing-Game/blob/imgs/main-menu.png
 
 ---
 
