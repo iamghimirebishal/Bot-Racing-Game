@@ -10,7 +10,7 @@ Race against a computer-controlled car, navigate challenging tracks, and test yo
 
 ## 💡 Project Motivation
 
-This project was created by **The Binary Bots** — a team of enthusiastic robotics and programming learners — to explore the fundamentals of **AI motion control**, **path following**, and **game development** using **Python and Pygame**.  
+This project was created by **The Binary Bots** - a team of enthusiastic robotics and programming learners - to explore the fundamentals of **AI motion control**, **path following**, and **game development** using **Python and Pygame**.  
 
 The goal was to simulate a fun yet technical racing environment where players compete against an AI bot that follows a defined racing path, showcasing how simple automation logic can create an engaging gaming experience.
 
@@ -29,3 +29,108 @@ The goal was to simulate a fun yet technical racing environment where players co
 
 ## 🗂️ Project Structure
 
+Bot-Racing-Game/
+
+│ ├── imgs/ # Image assets (track, cars, backgrounds)
+
+│ ├── background.png
+
+│ ├── grass.jpg
+
+│ ├── track1.png
+
+│ ├── track1_border.png
+
+│ ├── finish.png
+
+│ ├── red-car.png
+
+│ └── green-car.png
+
+│
+
+├── main.py # Main game logic and loop
+
+├── utils.py # Helper functions for scaling and rendering
+
+└── README.md # Project documentation
+
+---
+
+## ⚙️ Installation & Setup
+
+**1. Clone the repository**
+
+- git clone https://github.com/iamghimirebishal/Bot-Racing-Game.git
+
+- cd Bot-Racing-Game
+
+**2. Install dependencies**
+
+- Make sure you have Python 3.8+ installed, then run:
+
+- pip install pygame
+
+**3. Run the game**
+
+- python main.py
+
+---
+
+## 🎮 How to Play
+**Key	Action**
+- W	Move Forward
+- S	Move Backward
+- A	Turn Left
+- D	Turn Right
+- Enter	Start Game / Next Level
+- Esc	Quit Game
+
+🧭 Avoid crashing into the track borders, outsmart the AI car, and race your way to victory!
+
+---
+
+## 🧠 Game Logic Overview
+
+**PlayerCar**: Handles player control, movement, and collision reactions.
+
+**ComputerCar**: Follows a predefined set of path points to simulate AI racing.
+
+**Menu Screen**: Features animated scaling and rotation effects for an engaging intro.
+
+---
+
+## 📸 Screenshots
+
+Main Menu	In-Game View
+	
+
+(Replace the above image links with actual screenshots once added)
+
+---
+
+## 👨‍💻 Developed By
+### The Binary Bots
+#### Team Members:
+
+- Bishal Ghimire
+
+- Abhisam Sharma
+
+- Rajan Pandey
+
+- Sagar Bhatta
+
+---
+
+## 🏁 Future Enhancements
+
+- Add multiplayer or Bluetooth-controlled mode
+
+- Add new tracks and obstacle mechanics
+
+- Enhance AI pathfinding with adaptive learning
+
+- Add sound effects and background music
+
+- Implement save progress and leaderboard
