@@ -103,9 +103,10 @@ Bot-Racing-Game/
 ## 📸 Screenshots
 
 Main Menu	In-Game View
-	
 
-(Replace the above image links with actual screenshots once added)
+https://github.com/iamghimirebishal/Bot-Racing-Game/imgs/gameplay.png
+https://github.com/iamghimirebishal/Bot-Racing-Game/imgs/losing interface.png
+https://github.com/iamghimirebishal/Bot-Racing-Game/imgs/main menu.png
 
 ---
 
